@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\obj\Debug\Task Smooth fence.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\obj\Debug\Task Smooth fence.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\bin\Debug\Task Smooth fence.exe.config
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\bin\Debug\Task Smooth fence.exe
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\bin\Debug\Task Smooth fence.pdb
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\obj\Debug\Task Smooth fence.exe
+C:\Users\mafon\source\repos\Task Smooth fence\Task Smooth fence\obj\Debug\Task Smooth fence.pdb
